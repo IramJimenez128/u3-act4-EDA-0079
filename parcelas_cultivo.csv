@@ -1,0 +1,7 @@
+﻿id_parcela,nombre_parcela,hectareas,tipo_cultivo,fecha_siembra,fecha_cosecha_estimada,riego,rendimiento_estimado_ton,trabajador_responsable,estado
+101,El Mirador,5.5,Maiz,2023-05-01,2023-09-01,Aspersión,22.0,Juan,Cosechado
+102,La Esperanza,3.2,Trigo,2023-10-15,2024-03-15,Goteo,12.8,Pedro,En crecimiento
+103,San Jose,8.0,Maiz,2023-05-10,2023-09-10,Aspersión,32.0,Juan,Cosechado
+104,El Roble,2.5,Frijol,2023-06-01,2023-10-01,Temporal,5.0,Luis,Cosechado
+105,La Pradera,10.0,Soya,2023-06-15,2023-11-15,Goteo,30.0,Carlos,Cosechado
+106,Los Pinos,4.0,Trigo,2023-10-20,2024-03-20,Goteo,16.0,Pedro,En crecimiento
